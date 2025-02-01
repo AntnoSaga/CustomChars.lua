@@ -1,12 +1,11 @@
 module.PlayerPermission = {
 	["logui122_X"] =             {PlayerTier = 1000},
-	["I3_NoPrime"] =             {PlayerTier = 1000},
-	["CinderGuel"] =             {PlayerTier = 1000},
-	["Dark_shadow3251"] =             {PlayerTier = 100},
+	["yato5666544"] =             {PlayerTier = 1000},
+	["I3_NoPrime"] =             {PlayerTier = 12},
 }
 module.Characters = {
-	["Gojo"] = {Tier = 3, Permission = 
-		{"SagaDeveloper",}
-		,Icon = 15281314206}
+	["Eren"] = {Tier = 15, Permission = 
+		{"5205964172",}
+		,Icon = 100553756186052}
 }
 return module
