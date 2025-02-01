@@ -1,3 +1,4 @@
+local module = {}
 module.PlayerPermission = {
 	["logui122_X"] =             {PlayerTier = 1000},
 	["yato5666544"] =             {PlayerTier = 1000},
